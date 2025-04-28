@@ -116,6 +116,7 @@ SP1_PROVER=network NETWORK_PRIVATE_KEY=<YOUR_PRIVATE_KEY> NETWORK_RPC_URL=https:
 ```
 ### Output sample 
 
+![image](https://github.com/user-attachments/assets/646a7a6b-2a71-40a4-abfe-0be2992f60ef)
 
 
 You can check your proofs in https://testnet.succinct.xyz/explorer/account explorer. 
